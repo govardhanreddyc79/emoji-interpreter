@@ -37,7 +37,10 @@ export default function App() {
   return (
     <div className="App">
       <h1>Food Menu</h1>
-      <input onChange={onChangeHandler} />
+      <input
+        style={{ width: "30%", height: "30px" }}
+        onChange={onChangeHandler}
+      />
       <h2>
         <span style={{ color: "green" }}>{meaning}</span>
       </h2>
