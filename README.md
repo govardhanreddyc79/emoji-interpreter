@@ -1,2 +1,2 @@
 # emoji-interpreter
-Created with CodeSandbox. This project is about emoji-interpretation. emoji meaning will be displayed when click on any emoji.
+Created with CodeSandbox. This project is about emoji-interpretation. Emoji meaning will be displayed when you click on any emoji.
